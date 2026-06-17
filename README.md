@@ -1,4 +1,4 @@
-# MoodPick 🎬
+# MoodPick 
 
 Streamlit + FastAPI + Docker + AWS EC2 기반 콘텐츠 추천 웹 애플리케이션
 
